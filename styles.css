@@ -19,7 +19,7 @@ p{
 		
 }
 .book{
-	background-color:rgb(46, 204, 113) ;
+	
     display: flex;
     flex-flow: column;
     margin: 10px 0px;
@@ -30,7 +30,7 @@ p{
     margin: 10px auto;
 }
 .price-block{
-    background-color: #2ecc71;
+    background-color: rgb(46, 204, 113);
     color: white;
     text-align: center;
 }
